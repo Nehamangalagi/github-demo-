@@ -1,2 +1,2 @@
 # github-demo-
-this is my second basic respository
+this is my second basic git respository
